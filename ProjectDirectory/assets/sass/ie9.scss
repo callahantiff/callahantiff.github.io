@@ -4,49 +4,45 @@
 @import 'libs/skel';
 
 /*
-	Phantom by HTML5 UP
+	Dimension by HTML5 UP
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
-/* Tiles */
+/* BG */
 
-	.tiles {
-		&:after {
-			content: '';
-			display: block;
-			clear: both;
+	#bg {
+		&:before {
+			background: _palette(bg-overlay);
+		}
+	}
+
+/* Header */
+
+	#header {
+		.logo {
+			margin: 0 auto;
 		}
 
-		article {
-			float: left;
+		.content {
+			display: inline-block;
+		}
 
-			> a {
-				padding-top: 50%;
-				margin-top: -1.75em;
-			}
+		nav {
+			ul {
+				display: inline-block;
 
-			body:not(.is-touch) & {
-				&:hover {
-					> .image {
-						@include vendor('transform', 'none');
-					}
-				}
+				 li {
+				 	display: inline-block;
+				 }
 			}
 		}
 	}
 
-/* Footer */
+/* Main */
 
-	#footer {
-		> .inner {
-			section {
-				float: left;
-			}
-
-			.copyright {
-				clear: both;
-				padding-top: (_size(element-margin) * 2);
-			}
+	#main {
+		article {
+			margin: 0 auto;
 		}
 	}
