@@ -1,4 +1,4 @@
-# Project Directory
+# Callahantiff GitPages
 
 ### This directory serves as a personal website, primarily designed to faciliate organization of my GitHub projects
 
