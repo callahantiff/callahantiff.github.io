@@ -1,6 +1,6 @@
-## Project Directory
+# Project Directory
 
-# This directory creates a page to reference other GitPages for projects in my GitHub repository.
+### This directory creates a page to reference other GitPages for projects in my GitHub repository.
 
 
 *Phantom by HTML5 UP
