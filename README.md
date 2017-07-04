@@ -1,6 +1,6 @@
 # Callahantiff
 
-### This directory creates a personal website.
+### This repository is used to generate a personal website.
 
 
 
