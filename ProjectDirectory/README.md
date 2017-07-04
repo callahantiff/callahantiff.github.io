@@ -1,12 +1,12 @@
 # Project Directory
 
-### This directory serves as a personal website, primarily designed to faciliate organization of my GitHub projects
+### This directory creates a page to reference other GitPages for projects in my GitHub repository.
 
 
 
 
 
 ##### HTML Template Courtesy Of: 
-Identity by HTML5 UP .   
+Dimension by HTML5 UP .   
 html5up.net | @ajlkn .   
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
